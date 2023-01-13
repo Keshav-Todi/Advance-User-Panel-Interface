@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=SwingFirstExample
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=panel
+comment2.target=void\ placeComponents(javax.swing.JPanel)
+numComments=3

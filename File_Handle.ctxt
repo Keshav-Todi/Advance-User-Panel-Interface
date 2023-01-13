@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=File_Handle
+comment1.params=
+comment1.target=void\ datan()
+comment1.text=\r\n\ \ \ \ public\ static\ void\ selp()throws\ IOException\r\n\ \ \ \ {\r\n\ \ \ \ Scanner\ sc\=new\ Scanner(System.in);\r\n\ \ \ \ FileReader\ ob1\=new\ FileReader("test1.txt");\r\n\ \ \ \ int\ a\=ob1.read();\r\n\ \ \ \ System.out.println(a);\r\n\ \ \ \ if(ob1\!\=null)\r\n\ \ \ \ ob1.close();\r\n\ \ \ \ }\r\n
+numComments=2

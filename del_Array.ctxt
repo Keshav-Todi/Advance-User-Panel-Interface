@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=del_Array
+comment1.params=a\ pos\ till
+comment1.target=void\ dele(java.lang.String[],\ int,\ int)
+numComments=2

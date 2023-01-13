@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=chg_Array
+comment1.params=a\ pos\ data
+comment1.target=void\ insert(java.lang.String[],\ int,\ java.lang.String)
+numComments=2

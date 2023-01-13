@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=
+comment0.target=node()
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ create()
+comment3.params=
+comment3.target=void\ display()
+comment4.params=start\ n
+comment4.target=void\ delete(node,\ int)
+comment5.params=start\ x
+comment5.target=void\ insert_beg(node,\ int)
+comment6.params=start\ x
+comment6.target=void\ insert_end(node,\ int)
+comment7.params=start\ x\ n
+comment7.target=void\ insert_middle(node,\ int,\ int)
+numComments=8

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=s
+comment0.target=java.lang.String\ enco(java.lang.String)
+comment1.params=s
+comment1.target=java.lang.String\ encoding(java.lang.String)
+comment2.params=s1
+comment2.target=java.lang.String[]\ decoding(java.lang.String)
+numComments=3
